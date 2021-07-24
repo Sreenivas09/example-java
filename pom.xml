@@ -63,6 +63,8 @@
 			        <groupId>org.apache.maven.plugins</groupId> 
 				<artifactId>maven-compiler-plugin</artifactId> 
 				<version>3.8.1</version> 
+	                        </plugin>
+			        <plugin>
 				<groupId>com.sarav</groupId>
                                 <artifactId>TomcatMavenApp</artifactId>
                                 <version>9.0</version>
